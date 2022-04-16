@@ -1,5 +1,5 @@
 # SecuritySystem-Atmega16
-##Security system to open a door upon successful password entry on a keypad.
+## Security system to open a door upon successful password entry on a keypad.
 - Interface with 
 - GPIO
 - Buzzer

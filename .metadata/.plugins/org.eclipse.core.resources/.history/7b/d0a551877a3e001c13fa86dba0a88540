@@ -1,0 +1,21 @@
+/*
+ * buzzer.h
+ *
+ *  Created on: Oct 26, 2021
+ *      Author: h4z3m
+ */
+
+#ifndef BUZZER_H_
+#define BUZZER_H_
+
+#include "gpio.h"
+#define BUZZER_PORT PORTD_ID
+#define BUZZER_PIN PIN7_ID
+#define BUZZER_DEFAULT_PULSE_MS (500U)
+
+void Buzzer_init();
+void Buzzer_pulse_ms(uint32 duration);
+void Buzzer_ON(void);
+void Buzzer_OFF(void);
+
+#endif /* BUZZER_H_ */

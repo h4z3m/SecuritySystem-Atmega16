@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move &apos;system_modes.h&apos; to &apos;CONTROL_ECU&apos;" description="Move &apos;system_modes.h&apos; to &apos;CONTROL_ECU&apos;" destination="/CONTROL_ECU" element1="/HMI_ECU/system_modes.h" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1635434242406" updateReferences="true"/>
-</session>
